@@ -1,0 +1,8 @@
+[submodule "crazyflie_ros"]
+	path = crazyflie_ros
+	url = https://github.com/philip-huang/crazyflie_ros
+	branch = master
+[submodule "uav_trajectories"]
+	path = uav_trajectories
+	url = https://github.com/whoenig/uav_trajectories
+	branch = master
