@@ -3,7 +3,7 @@
 This is a python tool I coded (for fun) during August, 2018. It is intended to generate dynamically-feasible trajectories from hand-drawn letters. 
 
 ### Video Demo
-![Happy Birthday](video/hb.gif)
+![Happy Birthday](video/demo.gif)
 
 
 
